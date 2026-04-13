@@ -5,7 +5,6 @@
 ### Full Stack Developer | .NET Core & WordPress Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iman_Waris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iman-waris)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-imanwaris9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanwaris9999@gmail.com)
 
 </div>
