@@ -24,14 +24,14 @@
 
 I'm a **Full Stack Developer** from **Rahim Yar Khan, Punjab, Pakistan** with **3+ years of experience** building scalable, production-ready web applications.
 
-I started my journey with **WordPress** — delivering complete websites, WooCommerce stores, and CMS solutions — then expanded deep into **.NET Core**, **C#**, **Entity Framework**, and enterprise-grade backend systems.
+I started my journey with **WordPress** delivering complete websites, WooCommerce stores, and CMS solutions , then expanded deep into **.NET Core**, **C#**, **Entity Framework**, and enterprise-grade backend systems.
 
-I don't just write code — I understand every feature from a **user, business, and QA perspective**, ensuring real-world flows and edge cases are handled with precision.
+I don't just write code  I understand every feature from a **user, business, and QA perspective**, ensuring real-world flows and edge cases are handled with precision.
 
-- 🏢 Currently: **.NET Developer** @ **DynamicBits** *(Oct 2024 – Present)*
-- 🎓 **The Islamia University of Bahawalpur**
-- 💡 Passionate about **Clean Architecture**, **SOLID Principles** & **mentoring developers**
-- 🌐 Open to **freelance projects** & **collaborations**
+-  Currently: **.NET Developer** @ **DynamicBits** *(Oct 2024 – Present)*
+-  **The Islamia University of Bahawalpur**
+-  Passionate about **Clean Architecture**, **SOLID Principles** & **mentoring developers**
+-  Open to **freelance projects** & **collaborations**
 
 ---
 
@@ -140,7 +140,7 @@ I don't just write code — I understand every feature from a **user, business, 
 
 <div align="center">
 
-💬 *"I don't just write code — I understand features from a user, business, and QA perspective."*
+💬 *"I don't just write code , I understand features from a user, business, and QA perspective."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a3a8f,100:0d1b4b&height=120&section=footer)
 
