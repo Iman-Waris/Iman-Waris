@@ -22,11 +22,13 @@ I'm **Iman Waris**, a passionate and results-driven **Full Stack Developer** fro
 
 I started my journey with **WordPress** delivering complete websites, WooCommerce stores, and CMS solutions, then expanded deep into **.NET Core**, **C#**, **Entity Framework**, and enterprise-grade backend systems.
 
-I don't just write code — I understand every feature from a **user, business, and QA perspective**, ensuring real-world flows and edge cases are handled with precision.
+I don't just write code. I understand every feature from a **user, business, and QA perspective**, ensuring real-world flows and edge cases are handled with precision.
 
-- 💼 Currently: **.NET Developer** @ **DynamicBits** *(Oct 2024 – Present)*
-- 🏗️ Passionate about **Clean Architecture** & **SOLID Principles**
-- 🤝 Open to **freelance projects** & **collaborations**
+💼 Currently **.NET Developer** @ **DynamicBits** *(Oct 2024 – Present)*
+
+🏗️ Passionate about **Clean Architecture** & **SOLID Principles**
+
+🤝 Open to **freelance projects** & **collaborations**
 
 </td>
 <td valign="top" width="45%" align="center">
@@ -41,13 +43,19 @@ I don't just write code — I understand every feature from a **user, business, 
 
 ## ⚡ What I Actually Do
 
-- 🖥️ Design & build full stack web applications using **.NET Core** & **WordPress**
-- 🔧 Develop high-performance **RESTful APIs** & backend systems
-- 🛒 Build complete **WooCommerce** stores & custom **WordPress plugins**
-- 🗃️ Design optimized **database schemas** across SQL Server & PostgreSQL
-- 💳 Integrate **payment gateways** — Stripe, PayPal & more
-- 🧪 Write **automated & manual tests** ensuring production-level quality
-- 👥 Mentor junior developers & lead **code review culture**
+🖥️ Design & build full stack web applications using **.NET Core** & **WordPress**
+
+🔧 Develop high-performance **RESTful APIs** & backend systems
+
+🛒 Build complete **WooCommerce** stores & custom **WordPress plugins**
+
+🗃️ Design optimized **database schemas** across SQL Server & PostgreSQL
+
+💳 Integrate **payment gateways** like Stripe, PayPal & more
+
+🧪 Write **automated & manual tests** ensuring production-level quality
+
+👥 Mentor junior developers & lead **code review culture**
 
 ---
 
@@ -80,7 +88,7 @@ Clean Architecture & Design Patterns applied to real production systems
 
 **QA Mindset**
 
-Full edge case coverage — manual & automated testing
+Full edge case coverage, manual & automated testing
 
 </td>
 <td align="center" width="200">
@@ -213,6 +221,6 @@ End-to-end: UI to database to deployment
 
 <div align="center">
 
-💬 *"The best code is not the cleverest — it's the one your team can understand, extend, and trust in production."*
+💬 *"The best code is not the cleverest. It's the one your team can understand, extend, and trust in production."*
 
 </div>
