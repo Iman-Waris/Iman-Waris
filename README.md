@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![header](https://raw.githubusercontent.com/Iman-Waris/Iman-Waris/main/iman_waris_bannerc(1).svg)
-
+![header](https://raw.githubusercontent.com/Iman-Waris/Iman-Waris/main/iman_waris_banner%20(1).svg)
 </div>
 
 <div align="center">
