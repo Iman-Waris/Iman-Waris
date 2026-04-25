@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![header](https://raw.githubusercontent.com/Iman-Waris/Iman-Waris/main/iman_waris_banner%20(2).svg)</div>
-
+![header](https://raw.githubusercontent.com/Iman-Waris/Iman-Waris/main/iman_waris_banner.svg)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=.NET+Core+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%8C%90;WordPress+%26+WooCommerce+Expert+%F0%9F%9B%92;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
