@@ -43,13 +43,13 @@ I don't just write code. I understand every feature from a **user, business, and
 
 ## ⚡ What I Actually Do
 
-🖥️ Design & build full stack web applications using **.NET Core** & **WordPress**
-🔧 Develop high-performance **RESTful APIs** & backend systems
-🛒 Build complete **WooCommerce** stores & custom **WordPress plugins**
-🗃️ Design optimized **database schemas** across SQL Server & PostgreSQL
-💳 Integrate **payment gateways** like Stripe, PayPal & more
-🧪 Write **automated & manual tests** ensuring production-level quality
-👥 Mentor junior developers & lead **code review culture**
+- 🖥️ Design & build full stack web applications using **.NET Core** & **WordPress**
+- 🔧 Develop high-performance **RESTful APIs** & backend systems
+- 🛒 Build complete **WooCommerce** stores & custom **WordPress plugins**
+- 🗃️ Design optimized **database schemas** across SQL Server & PostgreSQL
+- 💳 Integrate **payment gateways** like Stripe, PayPal & more
+- 🧪 Write **automated & manual tests** ensuring production-level quality
+- 👥 Mentor junior developers & lead **code review culture**
 
 ---
 
@@ -107,7 +107,7 @@ Optimized ERD & schema design across SQL Server & PostgreSQL
 </td>
 <td align="center" width="200">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="Business Thinking"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Business Thinking"/>
 
 **Business Thinking**
 
