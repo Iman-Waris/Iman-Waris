@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a3a8f,100:0d1b4b&height=220&section=header&text=Iman%20Waris&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20Core%20%26%20WordPress%20Specialist&descColor=a8c8ff&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0c1a3a,25:0f2a6b,50:1a3f8f,75:1565c0,100:1e88e5&height=220&section=header&text=Iman%20Waris&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20Developer%20%7C%20WordPress%20%26%20WooCommerce%20Expert&descColor=a8c8ff&descSize=20&descAlign=50&descAlignY=60)
 
 </div>
 
@@ -101,16 +101,88 @@ I don't just write code  I understand every feature from a **user, business, and
 
 ## 🌟 Core Strengths
 
-| 💻 Clean Code | 🏗️ Architecture | 🧪 QA Mindset | 🔌 API Engineering |
-|---|---|---|---|
-| SOLID principles, readable & maintainable codebases | Clean Architecture & Design Patterns in production | Full edge case coverage — manual & automated | RESTful APIs, 3rd-party integrations |
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
 
-| 🗃️ Database Design | 💡 Business Thinking | 👥 Team Player | 🌐 Full Stack |
-|---|---|---|---|
-| Optimized ERD & schema design | Features built with user & business outcomes | Mentoring, code reviews, collaboration | End-to-end: UI to database to deployment |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Clean Code"/>
+
+**Clean Code**
+
+SOLID principles, readable & maintainable codebases
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="Architecture"/>
+
+**Architecture**
+
+Clean Architecture & Design Patterns applied to real production systems
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="QA Mindset"/>
+
+**QA Mindset**
+
+Full edge case coverage — manual & automated testing
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="API Engineering"/>
+
+**API Engineering**
+
+RESTful APIs, 3rd-party integrations & payment gateways
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Database Design"/>
+
+**Database Design**
+
+Optimized ERD & schema design across SQL Server & PostgreSQL
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="Business Thinking"/>
+
+**Business Thinking**
+
+Features built with user & business outcomes at the core
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Team Player"/>
+
+**Team Player**
+
+Mentoring, code reviews & collaboration
+
+</td>
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="Full Stack"/>
+
+**Full Stack**
+
+End-to-end: UI to database to deployment
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
-
 
 ## 🤝 Connect With Me
 
@@ -129,6 +201,6 @@ I don't just write code  I understand every feature from a **user, business, and
 
 💬 *"I don't just write code , I understand features from a user, business, and QA perspective."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a3a8f,100:0d1b4b&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0c1a3a,25:0f2a6b,50:1a3f8f,75:1565c0,100:1e88e5&height=120&section=footer)
 
 </div>
