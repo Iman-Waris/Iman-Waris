@@ -1,6 +1,8 @@
+
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0c1a3a,25:0f2a6b,50:1a3f8f,75:1565c0,100:1e88e5&height=220&section=header&text=Iman%20Waris&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20Developer%20%7C%20WordPress%20%26%20WooCommerce%20Expert&descColor=a8c8ff&descSize=20&descAlign=50&descAlignY=60)
+![header](https://raw.githubusercontent.com/Iman-Waris/Iman-Waris/main/iman_waris_banner.svg)
 
 </div>
 
