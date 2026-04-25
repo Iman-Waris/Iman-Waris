@@ -203,10 +203,9 @@ End-to-end: UI to database to deployment
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iman-waris)
-[![Gmail](https://img.shields.io/badge/Gmail-imanwaris9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanwaris9999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanwaris8677101/)
+[![Gmail](https://img.shields.io/badge/Gmail-imanwaris999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanwaris999@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-View_Answers-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 
 </div>
 
