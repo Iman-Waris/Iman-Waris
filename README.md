@@ -44,17 +44,11 @@ I don't just write code. I understand every feature from a **user, business, and
 ## ⚡ What I Actually Do
 
 🖥️ Design & build full stack web applications using **.NET Core** & **WordPress**
-
 🔧 Develop high-performance **RESTful APIs** & backend systems
-
 🛒 Build complete **WooCommerce** stores & custom **WordPress plugins**
-
 🗃️ Design optimized **database schemas** across SQL Server & PostgreSQL
-
 💳 Integrate **payment gateways** like Stripe, PayPal & more
-
 🧪 Write **automated & manual tests** ensuring production-level quality
-
 👥 Mentor junior developers & lead **code review culture**
 
 ---
@@ -66,7 +60,7 @@ I don't just write code. I understand every feature from a **user, business, and
 <tr>
 <td align="center" width="200">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Clean Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Clean Code"/>
 
 **Clean Code**
 
@@ -93,11 +87,11 @@ Full edge case coverage, manual & automated testing
 </td>
 <td align="center" width="200">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="API Engineering"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress Expert"/>
 
-**API Engineering**
+**WordPress Expert**
 
-RESTful APIs, 3rd-party integrations & payment gateways
+Custom plugins, WooCommerce stores & full CMS solutions
 
 </td>
 </tr>
