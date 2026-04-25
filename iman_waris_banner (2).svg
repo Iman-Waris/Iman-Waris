@@ -1,0 +1,122 @@
+<svg
+  width="854"
+  height="230"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 854 230"
+>
+  <style>
+    .text {
+      font-size: 52px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    .desc {
+      font-size: 16px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+      animation: fadeIn 1.4s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+  </style>
+
+  <defs>
+    <!-- Wave color 1: mid royal blue -->
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1230b0"/>
+      <stop offset="50%"  stop-color="#1e3fd4"/>
+      <stop offset="100%" stop-color="#1530b8"/>
+    </linearGradient>
+
+    <!-- Wave color 2: slightly lighter -->
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1a38c8"/>
+      <stop offset="50%"  stop-color="#2248e0"/>
+      <stop offset="100%" stop-color="#1838c0"/>
+    </linearGradient>
+
+    <!-- Wave color 3: darker for depth/cut -->
+    <linearGradient id="w3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a1880"/>
+      <stop offset="50%"  stop-color="#1228a8"/>
+      <stop offset="100%" stop-color="#0c1e90"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave 3 — darkest, bottom-most, creates the separated cut -->
+  <path fill="url(#w3)">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="-13s"
+      values="
+        M0 0 L0 200 Q213.5 165 427 195 T854 178 L854 0 Z;
+        M0 0 L0 188 Q213.5 218 427 198 T854 205 L854 0 Z;
+        M0 0 L0 205 Q213.5 180 427 188 T854 195 L854 0 Z;
+        M0 0 L0 200 Q213.5 165 427 195 T854 178 L854 0 Z
+      "/>
+  </path>
+
+  <!-- Wave 1 — mid layer -->
+  <path fill="url(#w1)">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="0s"
+      values="
+        M0 0 L0 155 Q213.5 195 427 165 T854 188 L854 0 Z;
+        M0 0 L0 178 Q213.5 193 427 173 T854 163 L854 0 Z;
+        M0 0 L0 198 Q213.5 168 427 198 T854 163 L854 0 Z;
+        M0 0 L0 155 Q213.5 195 427 165 T854 188 L854 0 Z
+      "/>
+  </path>
+
+  <!-- Wave 2 — top layer, lightest, most visible flowing wave -->
+  <path fill="url(#w2)">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="-10s"
+      values="
+        M0 0 L0 168 Q213.5 215 427 183 T854 196 L854 0 Z;
+        M0 0 L0 183 Q213.5 155 427 155 T854 173 L854 0 Z;
+        M0 0 L0 178 Q213.5 160 427 183 T854 200 L854 0 Z;
+        M0 0 L0 168 Q213.5 215 427 183 T854 196 L854 0 Z
+      "/>
+  </path>
+
+  <!-- Name -->
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%" y="40%"
+    class="text"
+    fill="#ffffff"
+  >Iman Waris</text>
+
+  <!-- Description -->
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%" y="63%"
+    class="desc"
+    fill="#c5d5ff"
+  >Full Stack Developer  |  .NET Developer  |  WordPress &amp; WooCommerce Expert</text>
+
+</svg>
